@@ -20,19 +20,17 @@ A brief introduction to your project, explaining what it does, its purpose, and 
     git clone https://github.com/sakomws/1024-o1.git
     ```
 
-2. Navigate to the project directory:
+3. Install dependencies:
 
-    ```bash
+    ```
     cd 1024-o1-storefront
     yarn install
-    yarn dev
     ```
     ```
     Storefront admin:
     ```
     cd 1024-o1-admin
     yarn install
-    yarn dev
     ```
 
     ```
@@ -41,37 +39,29 @@ A brief introduction to your project, explaining what it does, its purpose, and 
     python main.py
     ```
 
-3. Install dependencies:
-
-    ```bash
-    npm install
-    # or
-    pip install -r requirements.txt
-    ```
-
-4. Set up the environment (if applicable):
-
-    ```bash
-    cp .env.example .env
-    ```
-
-    Update `.env` with the required configuration.
 
 ### Usage
 
 1. Run the project:
 
-    ```bash
-    npm start
-    # or
-    python app.py
+    ```
+    yarn dev
     ```
 
 2. Open your browser and navigate to `http://localhost:` (or the port specified in the project).
 
 ### Features
-
-- 
+- Data collection
+  - User profile:
+    - user data
+    - 3rd party data
+    - public data: linkedin etc.
+    - synthetic data
+    
+- accuracy: intent, content and context
+- metadata: create tags, labels for data using llms
+- classify actions for realtime and non-realtime to predict user behave and calculate lifetime value
+- generate report for business to maximize customer satisfaction and revenue and minimize time to deliver
 
 ### Contributing
 
