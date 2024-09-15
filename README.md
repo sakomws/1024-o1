@@ -1,6 +1,6 @@
 # 1024-o1
 
-![Architecture](.images/architecture.jpg)
+![Architecture](images/architecture.jpg)
 
 ### Description
 A brief introduction to your project, explaining what it does, its purpose, and the problem it solves.
