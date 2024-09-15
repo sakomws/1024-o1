@@ -26,7 +26,7 @@ A brief introduction to your project, explaining what it does, its purpose, and 
     cd 1024-o1-storefront
     yarn install
     ```
-    ```
+    
     Storefront admin:
     ```
     cd 1024-o1-admin
