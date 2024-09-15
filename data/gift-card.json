@@ -1,0 +1,32 @@
+{
+    "id": "gift_01J7SCP0GPBSWS6T7GMTR3VBDW",
+    "created_at": "2024-09-14T23:07:56.306Z",
+    "updated_at": "2024-09-14T23:07:56.306Z",
+    "deleted_at": null,
+    "code": "ONCR-7Y20-QJAO-ZNDS",
+    "value": 10000,
+    "balance": 10000,
+    "region_id": "reg_01J7SBCA9VTEBR5SFJXE32NVW0",
+    "is_disabled": false,
+    "ends_at": null,
+    "tax_rate": null,
+    "metadata": {
+      "email": "sako@1024-o1.ai",
+      "personal_message": "GREAT"
+    },
+    "region": {
+      "id": "reg_01J7SBCA9VTEBR5SFJXE32NVW0",
+      "created_at": "2024-09-14T22:45:10.000Z",
+      "updated_at": "2024-09-14T22:45:10.000Z",
+      "deleted_at": null,
+      "name": "NA",
+      "currency_code": "usd",
+      "tax_rate": 0,
+      "tax_code": null,
+      "gift_cards_taxable": true,
+      "automatic_taxes": true,
+      "tax_provider_id": null,
+      "metadata": null
+    },
+    "order": null
+  }
